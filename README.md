@@ -42,6 +42,7 @@ Admins can post jobs and manage applications. Users can view jobs and apply with
 7.  Visit in browser:
    - Admin login: [http://localhost/job-portal/admin/login.php](http://localhost/job-portal/admin/login.php)
    - Public jobs: [http://localhost/job-portal/public/index.php](http://localhost/job-portal/public/index.php)
+   - View applicants: http://localhost/job-portal/admin/applicants.php
 
 ---
 
